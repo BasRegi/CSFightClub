@@ -1,0 +1,9 @@
+How to set up git folder in eclipse:
+
+1. Open Eclipse
+2. File > New > Java Project
+3. Name the project as 'd3'
+4. Uncheck 'Use Default location' and navigate to the parent folder of git folder, d3
+5. Click 'Next'
+6. Make sure src folder and and bin folder is set up correctly
+7. Click finish

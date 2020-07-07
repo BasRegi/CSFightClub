@@ -1,0 +1,59 @@
+1,ActiveX,1,1,1,Rush,Programming
+2,Fortran,1,1,2,Deadline: Deal 1 damage to a random enemy minion,Programming
+3,F#,2,3,2,:,Programming
+4,LISA,3,3,4,:,Programming
+5,JADE,4,4,5,:,Programming
+6,Swift,4,4,2,Rush,Programming
+7,Ada,7,7,5,:Deal 3 damage to a random enemy minion at the end of your turn,Programming
+8,Java,6,5,5,First Call: Deal 1 damage to all enemy minions,Programming
+9,Ruby,5,3,4,First Call: Deal 3 damage,Programming
+10,C,3,2,2,:Gain +1/+1 at the end of your turn,Programming
+11,C++,5,4,5,:Gain +0/+1 at the start of each turn,Programming
+12,Haskell,6,6,5,First Call: Nullify a minion,Programming
+13,OCaml,4,4,4,First Call: Deal 2 damage to a random enemy minion,Programming
+14,Assembly,3,3,2,First Call: Give +1/+1 to a friendly minion,Programming
+15,Basic,1,1,1,:,Programming
+16,JavaScript,2,2,3,First Call: Deal 1 damage,Programming
+17,HTML,8,3,7,Block; Deadline: Destroy all minions,Programming
+18,PHP,8,8,8,:,Programming
+19,Perl,3,1,2,First Call: Draw 2 cards,Programming
+20,Abstraction,2,0,0,:Draw a card,Programming
+21,Address Space,0,0,0,:Increase the mana pool by 2 for this turn,Programming
+22,Comment,5,0,0,:Give +4/+4 to a minion,Programming
+23,Dump,6,0,0,:Destroy a minion,Programming
+24,Compile,4,0,0,:Restore 3 health to all minions,Programming
+25,Conversion,1,0,0,:Swap attack/health of a minion,Programming
+26,Curse-r,4,0,0,:Deal 6 damage,Programming
+27,Extension,2,0,0,:Restore 4 health,Programming
+28,Firewall,3,0,0,:Deal 3 damage to all minions,Programming
+29,Trojan,4,0,0,:Deal 7 damage to an enemy minion,Programming
+30,Lego NXT,2,2,1,Deadline: Draw a card,Robotics
+31,Sandflea,2,3,1,:,Robotics
+32,Roomba,3,2,2,First Call: Deal 4 damage to an enemy minion,Robotics
+33,Sojourner,6,6,7,Block,Robotics
+34,Colossus,8,7,7,:Deal 2 damage to all characters,Robotics
+35,Betty,5,4,5,Block,Robotics
+36,Bob,5,5,3,Rush,Robotics
+37,C.P.U,10,4,4,Deadline: Deal 8 damage to your opponent,Robotics
+38,The mother of boards,8,6,7,:Restore 1 health to all friendly minions at the end of your turn,Robotics
+39,Mouse,1,1,2,:,Robotics
+40,Engine,6,6,6,:,Robotics
+41,Asimo,3,3,3,First Call: Nullify a minion,Robotics
+42,Wildcat,4,4,1,Rush,Robotics
+43,Curiosity Rover,7,4,8,Block; Deadline: Nullify all enemy minions,Robotics
+44,Overclock,2,0,0,:Give +3/+0 to a minion,Robotics
+45,Laser,1,0,0,:Deal 2 damage,Robotics
+46,Hack,3,0,0,:Force a minion to deal damage to itself,Robotics
+47,Malware,6,0,0,:Deal 3 damage to all enemy minions,Robotics
+48,Download,6,0,0,:Draw 3 cards,Robotics
+49,RAM,3,0,0,:Give +3/+3 to a minion,Robotics
+50,A* Search,4,0,0,:Restore 5 health,Robotics
+51,Set Task,2,0,0,:Give +2/+1 to a minion,Robotics
+52,Assist all agents,7,0,0,:Give +2/+1 to all minions,Robotics
+53,Turing test,2,0,0,:Give +0/+3 to a minion,Robotics
+54,Autonomize,4,0,0,:Restore 8 health to a minion,Robotics
+55,Transduce,5,0,0,:Draw a card and deal its damage to your target,Robotics
+56,Endpoint,10,0,0,:Deal 10 damage,Robotics
+57,Delete,3,0,0,:Destroy a random enemy minion,Robotics
+58,Reformat,8,0,0,:Deal 7 damage to all minions,Robotics
+59,TestCard,1,1,1,:Give -2/+3 to a minion,Neutral

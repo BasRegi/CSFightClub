@@ -1,0 +1,43 @@
+set gameData.sysGuiSelfStart = true at the beginning
+
+Create a Thread to track the changes in gameData and change the GUI accordingly.
+
+Possible eventTrigger:                      myInput(String instruction, String ... arguments)
+
+Welcome Page
+	myInput("register", <username>, <password>)
+	myInput("login", <username>, <passoword>)
+	
+Home Page
+	myInput("intoSingle")
+	myInput("intoLobby", <host>, <port>)
+	myInput("intoCollection")
+	myInput("intoCanvas")
+	myInput("intoSettings")
+	myInput("exit")
+	
+Battle Page
+	myInput("selectCard", <index>)  // index of gameData.getBattleData().myHand
+	myInput("selectMyMinion", <index>)
+	myInput("selectOppoMinion", <index>)
+	myInput("selectMyFace")
+	myInput("selectOppoFace")
+	myInput("nextRound")
+	myInput("giveUp")
+
+Lobby Page
+	myInput("sendMessage", <receiver>, <message>)  
+	    // if receiver is null, it will send message to all players
+	myInput("match", <target>) 
+		// if target is null, it is a random match
+	myInput("intoSloman")
+	myInput("back")
+	myInput("exit")
+	
+Collection Page & Canvas Page
+	myInput("back")
+	myInput("exit")
+	
+Store Page not decided yet, high priority
+
+Settings Page not decided yet, low priority

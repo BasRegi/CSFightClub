@@ -1,0 +1,49 @@
+*** '-' means we don't care about the value ***
+
+For the most part, using Cards is simple, there are getters and setters for the attack and the damage of minions, getters for cost, ...
+
+The difficulty comes in the use of the effects.
+There is a string, effect, which just stores the effect as it would be displayed on the card.
+The effect has also been split up logically, stored in public fields.
+
+Every effect is stored in the form:
+EFFECTS: (ACTION QUANTITY/(ATTACKGAIN/HEALTHGAIN) WHO WHEN) AND/OR (ACTION QUANTITY/(ATTACKGAIN/HEALTHGAIN) WHO WHEN)
+
+First we look at what is stored in the field ACTIONS, which is a single int.
+ACTIONS_SINGLE tells us there is no AND or OR, so we only have to consider the first int in every pair.
+ACTIONS_AND and ACTIONS_OR tells us there is two possible effects.
+
+Every other field is stored as an Intpair (set originally at -1,-1), where the first element in each pair is for the first effect, 
+the second is for the second effect. The methods public int getFirst() and public int getSecond() exist for Intpair.
+
+e.g.
+
+"Restore 3 health to character and draw a card" is equivalent to (read vertically down each column):
+
+ACTION =   (ACTION_RESTORE, ACTION_DRAW)
+QUANTITY = (3             , -1         )
+WHO =      (WHO_CHARACTER , WHO_NULL   )
+WHEN =     (WHEN_NULL     , WHEN_NULL  )
+
+For all possible enumerations for every category, see the Card class, where comments added.
+
+Where we have null entries in otherwise populated fields, it is up to you to decide what the default would be,
+e.g. where ACTION = (ACTION_DAMAGE, -), WHO = (WHO_NULL, -), WHEN = (WHEN_NULL, -) we would assume the damage will be applied 
+directly to the opponent's face, immediately, by the quantity given.
+
+The only exception to this methodology is the use of ACTION_GAIN, e.g. Gain +3/+2 for a minion on this turn
+Here we have two quantities
+Rather than using QUANTITY we use ATTACKGAIN and HEALTHGAIN, so this would translate to:
+
+ACTIONS = ACTIONS_SINGLE
+EFFECT = (EFFECT_NULL, -)
+ACTION = (ACTION_GAIN, -)
+ATTACKGAIN = (3, -)
+HEALTHGAIN = (2, -)
+WHO = (WHO_MINION, -)
+WHEN = (WHEN_THISTURN, -)
+
+***Intpair EFFECT, before the colon, are the key words that some card use, e.g. Block, Deadline, Rush***
+
+To make use of these enumerations, it should be a lot of switch-case and if-statements to work out the overall effect when the card 
+is played.

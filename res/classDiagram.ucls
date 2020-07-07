@@ -1,0 +1,2141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.13" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="events.MiniGameEvent" project="d3" file="/d3/src/events/MiniGameEvent.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="258" x="8403" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="csfightclub.FontSmall" project="d3" file="/d3/src/csfightclub/FontSmall.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="193" x="94" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="donttouch.AudioSettingsPanel" project="d3" 
+    file="/d3/src/donttouch/AudioSettingsPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="263" width="215" x="8338" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="csfightclub.Battle" project="d3" file="/d3/src/csfightclub/Battle.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="135" x="327" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="data.BattleData" project="d3" file="/d3/src/data/BattleData.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="803" width="203" x="4402" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="data.DBLink" project="d3" file="/d3/src/data/DBLink.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="605" width="288" x="4197" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="donttouch.Home" project="d3" file="/d3/src/donttouch/Home.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="407" width="257" x="4721" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="donttouch.Lobby" project="d3" file="/d3/src/donttouch/Lobby.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="461" width="258" x="5375" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="csfightclub.InputHandler" project="d3" 
+    file="/d3/src/csfightclub/InputHandler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="173" width="222" x="3461" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="data.DataManager" project="d3" file="/d3/src/data/DataManager.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="263" width="279" x="8656" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="csfightclub.Bitmap" project="d3" file="/d3/src/csfightclub/Bitmap.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="173" width="166" x="3723" y="755"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="csfightclub.Font" project="d3" file="/d3/src/csfightclub/Font.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="193" x="502" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="Main" project="d3" file="/d3/src/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="125" x="735" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="csfightclub.FightClubComponent" project="d3" 
+    file="/d3/src/csfightclub/FightClubComponent.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="443" width="218" x="3465" y="755"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="data.Minion" project="d3" file="/d3/src/data/Minion.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="425" width="158" x="4362" y="4718"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="csfightclub.Scene" project="d3" file="/d3/src/csfightclub/Scene.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="191" width="135" x="900" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="events.SceneEvent" project="d3" file="/d3/src/events/SceneEvent.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="145" x="9501" y="755"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="events.battle.BattleEvent" project="d3" 
+    file="/d3/src/events/battle/BattleEvent.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="1091" width="323" x="5322" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="donttouch.DeckReader" project="d3" file="/d3/src/donttouch/DeckReader.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="125" x="1085" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="network.MessageQueue" project="d3" file="/d3/src/network/MessageQueue.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="141" x="10898" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="data.Intpair" project="d3" file="/d3/src/data/Intpair.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="191" width="131" x="1250" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="donttouch.GUImodel" project="d3" file="/d3/src/donttouch/GUImodel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="263" width="199" x="7121" y="2618"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="data.Charactor" project="d3" file="/d3/src/data/Charactor.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="443" width="209" x="7381" y="3371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="network.ServerReciever" project="d3" file="/d3/src/network/ServerReciever.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="371" x="10916" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="events.EventManager" project="d3" file="/d3/src/events/EventManager.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="155" width="251" x="9541" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="26" language="java" name="network.Protocol" project="d3" file="/d3/src/network/Protocol.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="167" x="1421" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="27" language="java" name="csfightclub.Lobby" project="d3" file="/d3/src/csfightclub/Lobby.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="135" x="1628" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="28" language="java" name="network.ServerClientTest" project="d3" 
+    file="/d3/src/network/ServerClientTest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="137" x="1803" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="29" language="java" name="ai.AISmart" project="d3" file="/d3/src/ai/AISmart.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="173" width="295" x="4742" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="30" language="java" name="donttouch.Board" project="d3" file="/d3/src/donttouch/Board.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="119" width="200" x="1980" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="31" language="java" name="events.HomeEvent" project="d3" file="/d3/src/events/HomeEvent.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="209" width="230" x="10375" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="32" language="java" name="events.WelcomeEvent" project="d3" file="/d3/src/events/WelcomeEvent.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="191" width="253" x="8987" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="33" language="java" name="csfightclub.Screen" project="d3" file="/d3/src/csfightclub/Screen.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="146" x="3723" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="34" language="java" name="csfightclub.Welcome" project="d3" file="/d3/src/csfightclub/Welcome.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="135" x="2220" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="35" language="java" name="network.Player" project="d3" file="/d3/src/network/Player.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="245" width="271" x="7971" y="4718"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="36" language="java" name="csfightclub.InputHandler.Key" project="d3" 
+    file="/d3/src/csfightclub/InputHandler.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="191" width="139" x="3461" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="37" language="java" name="donttouch.CollectionListener" project="d3" 
+    file="/d3/src/donttouch/CollectionListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="227" width="263" x="6938" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="38" language="java" name="donttouch.BattleListener" project="d3" 
+    file="/d3/src/donttouch/BattleListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="227" width="374" x="5673" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="39" language="java" name="donttouch.MinionPanel" project="d3" file="/d3/src/donttouch/MinionPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="335" width="267" x="3969" y="2618"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="40" language="java" name="data.LobbyData" project="d3" file="/d3/src/data/LobbyData.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="137" width="214" x="8835" y="3371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="41" language="java" name="network.Command" project="d3" file="/d3/src/network/Command.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="227" width="228" x="10898" y="2618"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="42" language="java" name="donttouch.MoveAction" project="d3" file="/d3/src/donttouch/MoveAction.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="263" width="176" x="4421" y="755"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="43" language="java" name="donttouch.Audio" project="d3" file="/d3/src/donttouch/Audio.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="353" width="167" x="8841" y="2618"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="44" language="java" name="ai.AIRandom" project="d3" file="/d3/src/ai/AIRandom.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="119" width="224" x="5077" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="45" language="java" name="csfightclub.Home" project="d3" file="/d3/src/csfightclub/Home.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="135" x="2395" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="46" language="java" name="network.MatchPool" project="d3" file="/d3/src/network/MatchPool.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="155" width="166" x="10729" y="755"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="47" language="java" name="csfightclub.Art" project="d3" file="/d3/src/csfightclub/Art.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="137" width="199" x="3723" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="48" language="java" name="donttouch.PlayerInfo" project="d3" file="/d3/src/donttouch/PlayerInfo.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="191" width="200" x="4930" y="2618"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="49" language="java" name="donttouch.Tutorial" project="d3" file="/d3/src/donttouch/Tutorial.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="245" width="218" x="8080" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="50" language="java" name="network.PlayerTable" project="d3" file="/d3/src/network/PlayerTable.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="191" width="210" x="10773" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="51" language="java" name="data.Card" project="d3" file="/d3/src/data/Card.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="1307" width="227" x="4362" y="3371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="52" language="java" name="donttouch.CardReader" project="d3" file="/d3/src/donttouch/CardReader.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="125" x="2570" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="53" language="java" name="donttouch.Battle" project="d3" file="/d3/src/donttouch/Battle.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="551" width="271" x="3929" y="755"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="54" language="java" name="donttouch.Deck" project="d3" file="/d3/src/donttouch/Deck.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="245" width="200" x="9059" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="55" language="java" name="csfightclub.Audio" project="d3" file="/d3/src/csfightclub/Audio.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="105" x="2735" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="56" language="java" name="events.EventSource" project="d3" file="/d3/src/events/EventSource.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="175" x="10687" y="3371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="57" language="java" name="donttouch.CardPanel" project="d3" file="/d3/src/donttouch/CardPanel.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="389" width="200" x="4078" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="58" language="java" name="donttouch.Tiles" project="d3" file="/d3/src/donttouch/Tiles.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="389" width="389" x="6692" y="2618"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="59" language="java" name="data.Deck" project="d3" file="/d3/src/data/Deck.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="209" width="176" x="4672" y="2618"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="60" language="java" name="data.DBConnect" project="d3" file="/d3/src/data/DBConnect.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="209" width="141" x="4240" y="755"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="61" language="java" name="data.GameData" project="d3" file="/d3/src/data/GameData.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="713" width="206" x="8595" y="2618"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="62" language="java" name="donttouch.PlayerSettingsPanel" project="d3" 
+    file="/d3/src/donttouch/PlayerSettingsPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="263" width="277" x="7262" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="63" language="java" name="donttouch.LobbyListener" project="d3" file="/d3/src/donttouch/LobbyListener.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="227" width="377" x="7579" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="64" language="java" name="events.lobby.LobbyEvent" project="d3" file="/d3/src/events/lobby/LobbyEvent.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="173" width="226" x="9341" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="65" language="java" name="network.ServerSender" project="d3" file="/d3/src/network/ServerSender.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="264" x="11023" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="66" language="java" name="donttouch.Page" project="d3" file="/d3/src/donttouch/Page.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="173" width="200" x="9280" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="67" language="java" name="donttouch.SettingListener" project="d3" 
+    file="/d3/src/donttouch/SettingListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="227" width="246" x="6129" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="68" language="java" name="donttouch.Welcome" project="d3" file="/d3/src/donttouch/Welcome.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="281" width="275" x="5060" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="69" language="java" name="network.PlayerReciever" project="d3" file="/d3/src/network/PlayerReciever.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="278" x="7672" y="5183"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="70" language="java" name="data.DataSetup" project="d3" file="/d3/src/data/DataSetup.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="317" width="250" x="2890" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="71" language="java" name="donttouch.Collection" project="d3" file="/d3/src/donttouch/Collection.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="281" width="206" x="6692" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="72" language="java" name="events.EventTrigger" project="d3" file="/d3/src/events/EventTrigger.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="245" width="309" x="7611" y="5342"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="73" language="java" name="csfightclub.Tile" project="d3" file="/d3/src/csfightclub/Tile.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="245" width="185" x="3962" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="74" language="java" name="ai.AIInterface" project="d3" file="/d3/src/ai/AIInterface.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="119" width="224" x="4742" y="755"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="75" language="java" name="events.battle.BattleEffect" project="d3" 
+    file="/d3/src/events/battle/BattleEffect.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="209" width="230" x="4402" y="2618"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="76" language="java" name="events.EventUtil" project="d3" file="/d3/src/events/EventUtil.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="173" x="3180" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="77" language="java" name="donttouch.GUIview" project="d3" file="/d3/src/donttouch/GUIview.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="155" width="270" x="10065" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="78" language="java" name="donttouch.Setting" project="d3" file="/d3/src/donttouch/Setting.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="173" width="297" x="8024" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="79" language="java" name="events.Event" project="d3" file="/d3/src/events/Event.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="173" width="211" x="10457" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="80" language="java" name="donttouch.CharacterListener" project="d3" 
+    file="/d3/src/donttouch/CharacterListener.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="236" x="4525" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="81" language="java" name="data.DeckInfo" project="d3" file="/d3/src/data/DeckInfo.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="263" width="200" x="8595" y="3371"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="82" language="java" name="donttouch.HomeListener" project="d3" file="/d3/src/donttouch/HomeListener.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="209" width="376" x="9649" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="83" language="java" name="events.SettingsEvent" project="d3" file="/d3/src/events/SettingsEvent.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="246" x="8701" y="1346"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="84" language="java" name="network.Server" project="d3" file="/d3/src/network/Server.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="101" width="125" x="3393" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="85" language="java" name="donttouch.PlayerReader" project="d3" file="/d3/src/donttouch/PlayerReader.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="125" x="3558" y="-376"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="86" language="java" name="donttouch.PageListener" project="d3" file="/d3/src/donttouch/PageListener.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="227" width="237" x="6415" y="1775"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="87">    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="88" name="model"/>      
+      <multiplicity id="89" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="90">    
+    <bendpoint x="4287" y="1775"/>    
+    <bendpoint x="4287" y="2618"/>    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="91" name="card"/>      
+      <multiplicity id="92" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="93">    
+    <bendpoint x="5331" y="755"/>    
+    <bendpoint x="5331" y="1346"/>    
+    <bendpoint x="5029" y="1775"/>    
+    <bendpoint x="5160" y="2618"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="94" name="waitingCard"/>      
+      <multiplicity id="95" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="96">    
+    <end type="SOURCE" refId="83" navigable="false">      
+      <attribute id="97" name="dataManager"/>      
+      <multiplicity id="98" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="99">    
+    <bendpoint x="9100" y="2618"/>    
+    <bendpoint x="9100" y="3371"/>    
+    <bendpoint x="9100" y="4718"/>    
+    <bendpoint x="9100" y="5183"/>    
+    <end type="SOURCE" refId="82" navigable="false">      
+      <attribute id="100" name="eventTrigger"/>      
+      <multiplicity id="101" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="102">    
+    <end type="SOURCE" refId="61" navigable="false">      
+      <attribute id="103" name="allCards"/>      
+      <multiplicity id="104" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="105">    
+    <end type="SOURCE" refId="51" navigable="false">      
+      <attribute id="106" name="waitingEffect"/>      
+      <multiplicity id="107" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="75" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="108">    
+    <end type="SOURCE" refId="78" navigable="false">      
+      <attribute id="109" name="playerset"/>      
+      <multiplicity id="110" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="62" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="111">    
+    <bendpoint x="4669" y="755"/>    
+    <bendpoint x="4669" y="1346"/>    
+    <bendpoint x="4669" y="1775"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="112" name="oppoDeck"/>      
+      <multiplicity id="113" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="114">    
+    <bendpoint x="8583" y="1775"/>    
+    <end type="SOURCE" refId="78" navigable="false">      
+      <attribute id="115" name="model"/>      
+      <multiplicity id="116" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="117">    
+    <end type="SOURCE" refId="63" navigable="false">      
+      <attribute id="118" name="gameData"/>      
+      <multiplicity id="119" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="120">    
+    <end type="SOURCE" refId="66" navigable="false">      
+      <attribute id="121" name="deck"/>      
+      <multiplicity id="122" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="54" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="123">    
+    <end type="SOURCE" refId="77" navigable="false">      
+      <attribute id="124" name="player"/>      
+      <multiplicity id="125" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="126">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="127" name="card"/>      
+      <multiplicity id="128" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="129">    
+    <bendpoint x="10698" y="755"/>    
+    <bendpoint x="10698" y="1346"/>    
+    <bendpoint x="10698" y="1775"/>    
+    <bendpoint x="10698" y="2618"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="130" name="firstPlayer"/>      
+      <multiplicity id="131" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="132">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="133" name="model"/>      
+      <multiplicity id="134" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="135">    
+    <end type="SOURCE" refId="61" navigable="false">      
+      <attribute id="136" name="lobbyData"/>      
+      <multiplicity id="137" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="138">    
+    <bendpoint x="7350" y="2618"/>    
+    <bendpoint x="7350" y="3371"/>    
+    <bendpoint x="7350" y="4718"/>    
+    <bendpoint x="7350" y="5183"/>    
+    <end type="SOURCE" refId="62" navigable="false">      
+      <attribute id="139" name="trigger"/>      
+      <multiplicity id="140" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="141">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="36"/>  
+  </nesting>  
+  <association id="142">    
+    <bendpoint x="7371" y="2618"/>    
+    <end type="SOURCE" refId="62" navigable="false">      
+      <attribute id="143" name="c"/>      
+      <multiplicity id="144" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="145">    
+    <bendpoint x="6077" y="1346"/>    
+    <bendpoint x="8028" y="1775"/>    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="146" name="gameData"/>      
+      <multiplicity id="147" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="148">    
+    <bendpoint x="7620" y="2618"/>    
+    <bendpoint x="7620" y="3371"/>    
+    <bendpoint x="7620" y="4718"/>    
+    <bendpoint x="7620" y="5183"/>    
+    <end type="SOURCE" refId="63" navigable="false">      
+      <attribute id="149" name="trigger"/>      
+      <multiplicity id="150" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="151">    
+    <bendpoint x="8625" y="1775"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="152" name="gameData"/>      
+      <multiplicity id="153" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="154">    
+    <bendpoint x="3938" y="1346"/>    
+    <bendpoint x="3938" y="1775"/>    
+    <bendpoint x="3938" y="2618"/>    
+    <bendpoint x="3938" y="3371"/>    
+    <bendpoint x="3938" y="4718"/>    
+    <bendpoint x="3938" y="5183"/>    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="155" name="eventTrigger"/>      
+      <multiplicity id="156" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="157">    
+    <bendpoint x="9822" y="1346"/>    
+    <end type="SOURCE" refId="31"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <association id="158">    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="159" name="oppoMinions"/>      
+      <multiplicity id="160" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="161">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="162" name="Scenes"/>      
+      <multiplicity id="163" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="164">    
+    <bendpoint x="10925" y="755"/>    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="165" name="playerTable"/>      
+      <multiplicity id="166" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="167">    
+    <bendpoint x="9121" y="2618"/>    
+    <bendpoint x="9121" y="3371"/>    
+    <bendpoint x="9121" y="4718"/>    
+    <bendpoint x="9121" y="5183"/>    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="168" name="eventTrigger"/>      
+      <multiplicity id="169" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="170">    
+    <bendpoint x="4371" y="2618"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="171" name="myHand"/>      
+      <multiplicity id="172" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="173">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="174" name="tileset"/>      
+      <multiplicity id="175" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="176">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="177" name="gameData"/>      
+      <multiplicity id="178" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="179">    
+    <end type="SOURCE" refId="82" navigable="false">      
+      <attribute id="180" name="model"/>      
+      <multiplicity id="181" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="182">    
+    <end type="SOURCE" refId="40" navigable="false">      
+      <attribute id="183" name="client"/>      
+      <multiplicity id="184" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="185">    
+    <bendpoint x="6056" y="2618"/>    
+    <bendpoint x="6056" y="3371"/>    
+    <bendpoint x="6056" y="4718"/>    
+    <bendpoint x="6056" y="5183"/>    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="186" name="trigger"/>      
+      <multiplicity id="187" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="188">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="189" name="confirm"/>      
+      <multiplicity id="190" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="191">    
+    <bendpoint x="4329" y="2618"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="192" name="oppoMinions"/>      
+      <multiplicity id="193" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="194">    
+    <end type="SOURCE" refId="29"/>    
+    <end type="TARGET" refId="74"/>  
+  </generalization>  
+  <association id="195">    
+    <end type="SOURCE" refId="64" navigable="false">      
+      <attribute id="196" name="model"/>      
+      <multiplicity id="197" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="198">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="199" name="queue"/>      
+      <multiplicity id="200" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="201">    
+    <bendpoint x="10677" y="1775"/>    
+    <bendpoint x="10677" y="2618"/>    
+    <end type="SOURCE" refId="79" navigable="false">      
+      <attribute id="202" name="eventSource"/>      
+      <multiplicity id="203" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="204">    
+    <end type="SOURCE" refId="59" navigable="false">      
+      <attribute id="205" name="cards"/>      
+      <multiplicity id="206" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="207">    
+    <bendpoint x="9058" y="2618"/>    
+    <end type="SOURCE" refId="64" navigable="false">      
+      <attribute id="208" name="lobData"/>      
+      <multiplicity id="209" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="40" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="210">    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="211" name="tileset"/>      
+      <multiplicity id="212" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="213">    
+    <end type="SOURCE" refId="75" navigable="false">      
+      <attribute id="214" name="card"/>      
+      <multiplicity id="215" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="216">    
+    <bendpoint x="4308" y="1346"/>    
+    <bendpoint x="4308" y="1775"/>    
+    <bendpoint x="4266" y="2618"/>    
+    <bendpoint x="4266" y="3371"/>    
+    <bendpoint x="4266" y="4718"/>    
+    <bendpoint x="4266" y="5183"/>    
+    <end type="SOURCE" refId="74" navigable="false">      
+      <attribute id="217" name="eventTrigger"/>      
+      <multiplicity id="218" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="219">    
+    <end type="SOURCE" refId="46" navigable="false">      
+      <attribute id="220" name="playerTable"/>      
+      <multiplicity id="221" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="50" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="222">    
+    <bendpoint x="8986" y="1775"/>    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="223" name="gameData"/>      
+      <multiplicity id="224" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="225">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="226" name="tileset"/>      
+      <multiplicity id="227" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="228">    
+    <end type="SOURCE" refId="77" navigable="false">      
+      <attribute id="229" name="model"/>      
+      <multiplicity id="230" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="231">    
+    <end type="SOURCE" refId="64" navigable="false">      
+      <attribute id="232" name="gameData"/>      
+      <multiplicity id="233" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="234">    
+    <bendpoint x="9028" y="1775"/>    
+    <end type="SOURCE" refId="66" navigable="false">      
+      <attribute id="235" name="model"/>      
+      <multiplicity id="236" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="237">    
+    <end type="SOURCE" refId="17" navigable="false">      
+      <attribute id="238" name="eventPool"/>      
+      <multiplicity id="239" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="79" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="240">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="241" name="dataManager"/>      
+      <multiplicity id="242" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="243">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="244" name="font"/>      
+      <multiplicity id="245" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="246">    
+    <bendpoint x="4711" y="1346"/>    
+    <bendpoint x="7231" y="1775"/>    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="247" name="model"/>      
+      <multiplicity id="248" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="249">    
+    <bendpoint x="6077" y="2618"/>    
+    <bendpoint x="6077" y="3371"/>    
+    <bendpoint x="6077" y="4718"/>    
+    <bendpoint x="6077" y="5183"/>    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="250" name="eventTrigger"/>      
+      <multiplicity id="251" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="252">    
+    <bendpoint x="4690" y="755"/>    
+    <bendpoint x="4690" y="1346"/>    
+    <bendpoint x="4690" y="1775"/>    
+    <bendpoint x="4878" y="2618"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="253" name="attackCard"/>      
+      <multiplicity id="254" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="255">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="256" name="dataManager"/>      
+      <multiplicity id="257" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="258">    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="259" name="battleData"/>      
+      <multiplicity id="260" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="261">    
+    <end type="SOURCE" refId="48" navigable="false">      
+      <attribute id="262" name="c"/>      
+      <multiplicity id="263" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="264">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="265" name="startOfTurn"/>      
+      <multiplicity id="266" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="75" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="267">    
+    <bendpoint x="4606" y="1346"/>    
+    <bendpoint x="5008" y="1775"/>    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="268" name="tileset"/>      
+      <multiplicity id="269" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="270">    
+    <end type="SOURCE" refId="31" navigable="false">      
+      <attribute id="271" name="gameData"/>      
+      <multiplicity id="272" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="273">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <association id="274">    
+    <end type="SOURCE" refId="61" navigable="false">      
+      <attribute id="275" name="charactor"/>      
+      <multiplicity id="276" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="23" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="277">    
+    <end type="SOURCE" refId="63" navigable="false">      
+      <attribute id="278" name="model"/>      
+      <multiplicity id="279" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="280">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="281" name="link"/>      
+      <multiplicity id="282" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="60" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="283">    
+    <bendpoint x="7641" y="5183"/>    
+    <bendpoint x="7641" y="4718"/>    
+    <bendpoint x="7641" y="3371"/>    
+    <end type="SOURCE" refId="72" navigable="false">      
+      <attribute id="284" name="gameData"/>      
+      <multiplicity id="285" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="286">    
+    <bendpoint x="7980" y="5183"/>    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="287" name="trigger"/>      
+      <multiplicity id="288" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="289">    
+    <end type="SOURCE" refId="67" navigable="false">      
+      <attribute id="290" name="tileset"/>      
+      <multiplicity id="291" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="292">    
+    <bendpoint x="8965" y="1775"/>    
+    <end type="SOURCE" refId="83" navigable="false">      
+      <attribute id="293" name="gameData"/>      
+      <multiplicity id="294" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="295">    
+    <bendpoint x="4627" y="755"/>    
+    <bendpoint x="4627" y="1346"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="296" name="batData"/>      
+      <multiplicity id="297" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="298">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="299" name="sprites"/>      
+      <multiplicity id="300" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="301">    
+    <end type="SOURCE" refId="69" navigable="false">      
+      <attribute id="302" name="trigger"/>      
+      <multiplicity id="303" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="304">    
+    <bendpoint x="4350" y="2618"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="305" name="myMinions"/>      
+      <multiplicity id="306" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="307">    
+    <end type="SOURCE" refId="62" navigable="false">      
+      <attribute id="308" name="aud"/>      
+      <multiplicity id="309" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="310">    
+    <bendpoint x="9289" y="1775"/>    
+    <end type="SOURCE" refId="66" navigable="false">      
+      <attribute id="311" name="gameData"/>      
+      <multiplicity id="312" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="313">    
+    <end type="SOURCE" refId="86" navigable="false">      
+      <attribute id="314" name="tileset"/>      
+      <multiplicity id="315" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="316">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="317" name="screen"/>      
+      <multiplicity id="318" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="319">    
+    <bendpoint x="9843" y="755"/>    
+    <bendpoint x="9843" y="1346"/>    
+    <bendpoint x="9618" y="1775"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="320" name="gameData"/>      
+      <multiplicity id="321" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="322">    
+    <bendpoint x="8049" y="1775"/>    
+    <end type="SOURCE" refId="78" navigable="false">      
+      <attribute id="323" name="tileset"/>      
+      <multiplicity id="324" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="325">    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="326" name="batData"/>      
+      <multiplicity id="327" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="328">    
+    <end type="SOURCE" refId="71" navigable="false">      
+      <attribute id="329" name="tileset"/>      
+      <multiplicity id="330" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="331">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="332" name="pool"/>      
+      <multiplicity id="333" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="46" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="334">    
+    <end type="SOURCE" refId="73" navigable="false">      
+      <attribute id="335" name="frames"/>      
+      <multiplicity id="336" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="337">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="338" name="oppoDeck"/>      
+      <multiplicity id="339" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="340">    
+    <end type="SOURCE" refId="65" navigable="false">      
+      <attribute id="341" name="messagesForPlayer"/>      
+      <multiplicity id="342" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="343">    
+    <end type="SOURCE" refId="80" navigable="false">      
+      <attribute id="344" name="move"/>      
+      <multiplicity id="345" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="42" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="346">    
+    <bendpoint x="8351" y="1346"/>    
+    <bendpoint x="8604" y="1775"/>    
+    <end type="SOURCE" refId="74" navigable="false">      
+      <attribute id="347" name="gameData"/>      
+      <multiplicity id="348" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="349">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="350" name="dataManager"/>      
+      <multiplicity id="351" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="352">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="353" name="reciever"/>      
+      <multiplicity id="354" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="69" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="355">    
+    <end type="SOURCE" refId="63" navigable="false">      
+      <attribute id="356" name="tileset"/>      
+      <multiplicity id="357" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="358">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="359" name="UI"/>      
+      <multiplicity id="360" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="361">    
+    <bendpoint x="4648" y="755"/>    
+    <bendpoint x="4648" y="1346"/>    
+    <bendpoint x="4648" y="1775"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="362" name="myDeck"/>      
+      <multiplicity id="363" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="364">    
+    <end type="SOURCE" refId="86" navigable="false">      
+      <attribute id="365" name="model"/>      
+      <multiplicity id="366" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="367">    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="368" name="myMinions"/>      
+      <multiplicity id="369" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="370">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="371" name="use_rod"/>      
+      <multiplicity id="372" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="373">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="374" name="cursor_up"/>      
+      <multiplicity id="375" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="376">    
+    <bendpoint x="4047" y="1346"/>    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="377" name="batData"/>      
+      <multiplicity id="378" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="379">    
+    <bendpoint x="9310" y="1775"/>    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="380" name="model"/>      
+      <multiplicity id="381" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="382">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="383" name="aud"/>      
+      <multiplicity id="384" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="43" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="385">    
+    <end type="SOURCE" refId="78" navigable="false">      
+      <attribute id="386" name="audioset"/>      
+      <multiplicity id="387" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="388">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="389" name="keys"/>      
+      <multiplicity id="390" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="391">    
+    <end type="SOURCE" refId="50" navigable="false">      
+      <attribute id="392" name="playerTable"/>      
+      <multiplicity id="393" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="394">    
+    <bendpoint x="8372" y="755"/>    
+    <bendpoint x="8372" y="1346"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="395" name="dm"/>      
+      <multiplicity id="396" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="397">    
+    <bendpoint x="7986" y="1775"/>    
+    <end type="SOURCE" refId="29" navigable="false">      
+      <attribute id="398" name="gameData"/>      
+      <multiplicity id="399" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="400">    
+    <bendpoint x="8007" y="1775"/>    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="401" name="gameData"/>      
+      <multiplicity id="402" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="403">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="404" name="myDeck"/>      
+      <multiplicity id="405" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="59" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="406">    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="407" name="gameData"/>      
+      <multiplicity id="408" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="409">    
+    <bendpoint x="10635" y="1775"/>    
+    <bendpoint x="10635" y="2618"/>    
+    <bendpoint x="10635" y="3371"/>    
+    <bendpoint x="10635" y="4718"/>    
+    <bendpoint x="10635" y="5183"/>    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="410" name="eventTrigger"/>      
+      <multiplicity id="411" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="412">    
+    <bendpoint x="6077" y="1775"/>    
+    <end type="SOURCE" refId="57" navigable="false">      
+      <attribute id="413" name="gameData"/>      
+      <multiplicity id="414" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="415">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="416" name="tileset"/>      
+      <multiplicity id="417" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="418">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="419" name="model"/>      
+      <multiplicity id="420" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="421">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="422" name="cursor_down"/>      
+      <multiplicity id="423" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="424">    
+    <bendpoint x="9597" y="1775"/>    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="425" name="gameData"/>      
+      <multiplicity id="426" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="427">    
+    <end type="SOURCE" refId="55" navigable="false">      
+      <attribute id="428" name="test"/>      
+      <multiplicity id="429" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="55" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="430">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <generalization id="431">    
+    <end type="SOURCE" refId="33"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="432">    
+    <end type="SOURCE" refId="67" navigable="false">      
+      <attribute id="433" name="model"/>      
+      <multiplicity id="434" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="435">    
+    <end type="SOURCE" refId="44"/>    
+    <end type="TARGET" refId="74"/>  
+  </generalization>  
+  <association id="436">    
+    <bendpoint x="9007" y="1775"/>    
+    <end type="SOURCE" refId="66" navigable="false">      
+      <attribute id="437" name="tileset"/>      
+      <multiplicity id="438" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="439">    
+    <end type="SOURCE" refId="44" navigable="false">      
+      <attribute id="440" name="battleData"/>      
+      <multiplicity id="441" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="442">    
+    <end type="SOURCE" refId="25" navigable="false">      
+      <attribute id="443" name="currentSceneEvent"/>      
+      <multiplicity id="444" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="445">    
+    <bendpoint x="4245" y="3371"/>    
+    <bendpoint x="4245" y="4718"/>    
+    <bendpoint x="4245" y="5183"/>    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="446" name="eventTrigger"/>      
+      <multiplicity id="447" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="448">    
+    <end type="SOURCE" refId="32"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <association id="449">    
+    <bendpoint x="6098" y="755"/>    
+    <bendpoint x="6098" y="1346"/>    
+    <bendpoint x="6098" y="1775"/>    
+    <bendpoint x="6098" y="2618"/>    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="450" name="targetMinion"/>      
+      <multiplicity id="451" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="452">    
+    <end type="SOURCE" refId="37" navigable="false">      
+      <attribute id="453" name="model"/>      
+      <multiplicity id="454" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="455">    
+    <end type="SOURCE" refId="77" navigable="false">      
+      <attribute id="456" name="gameData"/>      
+      <multiplicity id="457" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="458">    
+    <bendpoint x="9510" y="1346"/>    
+    <end type="SOURCE" refId="64"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <association id="459">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="460" name="gameData"/>      
+      <multiplicity id="461" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="462">    
+    <end type="SOURCE" refId="54" navigable="false">      
+      <attribute id="463" name="gameData"/>      
+      <multiplicity id="464" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="465">    
+    <end type="SOURCE" refId="47" navigable="false">      
+      <attribute id="466" name="fontsmall"/>      
+      <multiplicity id="467" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="468">    
+    <bendpoint x="4581" y="1346"/>    
+    <end type="SOURCE" refId="74" navigable="false">      
+      <attribute id="469" name="battleData"/>      
+      <multiplicity id="470" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="471">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="472" name="playerinfo"/>      
+      <multiplicity id="473" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="48" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="474">    
+    <end type="SOURCE" refId="62" navigable="false">      
+      <attribute id="475" name="tileset"/>      
+      <multiplicity id="476" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="477">    
+    <end type="SOURCE" refId="82" navigable="false">      
+      <attribute id="478" name="gameData"/>      
+      <multiplicity id="479" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="480">    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="481" name="tileset"/>      
+      <multiplicity id="482" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="483">    
+    <end type="SOURCE" refId="75" navigable="false">      
+      <attribute id="484" name="event"/>      
+      <multiplicity id="485" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="56" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="486">    
+    <end type="SOURCE" refId="61" navigable="false">      
+      <attribute id="487" name="myDecks"/>      
+      <multiplicity id="488" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="81" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="489">    
+    <bendpoint x="9079" y="2618"/>    
+    <bendpoint x="9079" y="3371"/>    
+    <bendpoint x="9079" y="4718"/>    
+    <bendpoint x="9079" y="5183"/>    
+    <end type="SOURCE" refId="77" navigable="false">      
+      <attribute id="490" name="eventTrigger"/>      
+      <multiplicity id="491" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="492">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="493" name="endOfTurn"/>      
+      <multiplicity id="494" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="75" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="495">    
+    <end type="SOURCE" refId="73" navigable="false">      
+      <attribute id="496" name="tiles"/>      
+      <multiplicity id="497" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="73" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="498">    
+    <bendpoint x="4308" y="2618"/>    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="499" name="oppoHand"/>      
+      <multiplicity id="500" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="51" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="501">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="502" name="input"/>      
+      <multiplicity id="503" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="504">    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="505" name="gameData"/>      
+      <multiplicity id="506" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="507">    
+    <bendpoint x="4899" y="2618"/>    
+    <bendpoint x="4899" y="3371"/>    
+    <bendpoint x="4899" y="4718"/>    
+    <bendpoint x="4899" y="5183"/>    
+    <end type="SOURCE" refId="68" navigable="false">      
+      <attribute id="508" name="eventTrigger"/>      
+      <multiplicity id="509" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="72" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="510">    
+    <end type="SOURCE" refId="51" navigable="false">      
+      <attribute id="511" name="minion"/>      
+      <multiplicity id="512" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="513">    
+    <end type="SOURCE" refId="61" navigable="false">      
+      <attribute id="514" name="battleData"/>      
+      <multiplicity id="515" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="516">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="517" name="enter"/>      
+      <multiplicity id="518" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="519">    
+    <bendpoint x="10656" y="5183"/>    
+    <bendpoint x="10656" y="4718"/>    
+    <bendpoint x="10656" y="3371"/>    
+    <bendpoint x="10656" y="2618"/>    
+    <bendpoint x="10656" y="1775"/>    
+    <end type="SOURCE" refId="72" navigable="false">      
+      <attribute id="520" name="eventManager"/>      
+      <multiplicity id="521" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="522">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="523" name="model"/>      
+      <multiplicity id="524" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="525">    
+    <end type="SOURCE" refId="38" navigable="false">      
+      <attribute id="526" name="model"/>      
+      <multiplicity id="527" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="528">    
+    <end type="SOURCE" refId="49" navigable="false">      
+      <attribute id="529" name="model"/>      
+      <multiplicity id="530" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="531">    
+    <end type="SOURCE" refId="83"/>    
+    <end type="TARGET" refId="17"/>  
+  </generalization>  
+  <association id="532">    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="533" name="escape"/>      
+      <multiplicity id="534" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="535">    
+    <end type="SOURCE" refId="63" navigable="false">      
+      <attribute id="536" name="dt"/>      
+      <multiplicity id="537" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="61" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="538">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="539" name="tileset"/>      
+      <multiplicity id="540" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="58" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="541">    
+    <end type="SOURCE" refId="53" navigable="false">      
+      <attribute id="542" name="handCards"/>      
+      <multiplicity id="543" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="57" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

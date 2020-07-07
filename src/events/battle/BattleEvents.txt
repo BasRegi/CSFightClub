@@ -1,0 +1,25 @@
+All Battle Events:
+	
+	Attack <Offensive> <Defensive> 
+	Damage <Character>
+	Death <Character>
+	Draw <Deck> <Hand>
+	CannotAttack <Character>
+	GiveHealth <Character>
+	Heal <Character>
+	TakeControl <Character>
+	Nullify <Character>
+	GiveAttack <Character>
+	GiveEffect <Character> <Effect>
+	PlayMinion <Minion>
+	PlayHex
+	StopAttack
+	
+Effect Key Words:
+	
+	FirstCall
+	Deadline
+	Block
+	Iterate
+	Rush
+	

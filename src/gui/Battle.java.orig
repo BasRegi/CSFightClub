@@ -1,0 +1,153 @@
+package donttouch;
+
+import java.awt.Color;
+import java.awt.Graphics;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+import java.awt.image.BufferedImage;
+
+import javax.swing.ImageIcon;
+import javax.swing.JLabel;
+import javax.swing.JPanel;
+import javax.swing.Timer;
+
+import csfightclub.Font;
+import data.GameData;
+
+public class Battle extends JPanel implements ActionListener {
+
+	private GUImodel model;
+	private Tiles tileset;
+	private BufferedImage floor, title, giveup, endturn, hp, mana;
+	private JLabel giveupbutton, endturnbutton;
+	private long startTime, elapsedTime;
+	private Timer timer;
+	private int countdown;
+	private Font loadFont;
+	//private Board board;
+
+	public Battle(GUImodel model, int i, GameData gameData) {
+		super();
+		this.model = model;
+
+		tileset = new Tiles();
+		floor = tileset.readFloor(1, 0);
+
+		title = tileset.readsmallString("battle", 3);
+
+		hp = tileset.readStringwSize("hp: ", 20, 20);
+		mana = tileset.readStringwSize("mana: ", 20, 20);
+
+		giveup = tileset.readStringwSize("give up", 32, 32);
+		giveupbutton = new JLabel(new ImageIcon(giveup), JLabel.RIGHT);
+		giveupbutton.addMouseListener(new BattleListener("GU", model, giveupbutton));
+		add(giveupbutton);
+
+		endturn = tileset.readStringwSize("end turn", 32, 32);
+		endturnbutton = new JLabel(new ImageIcon(endturn), JLabel.RIGHT);
+		endturnbutton.addMouseListener(new BattleListener("ET", model, endturnbutton));
+		add(endturnbutton);
+
+<<<<<<< HEAD
+		//board = new JPanel();
+		//board.setBackground(new Color(0, 0, 0, 123));
+		//board = new Board(gameData);
+		//add(board);
+=======
+		// board = new JPanel();
+		// board.setBackground(new Color(0, 0, 0, 123));
+		board = new Board(gameData);
+		add(board);
+>>>>>>> 87b7e4b8366fd2a719dc698f5eae57ae668b726b
+
+		gameData.currentScene = GameData.BATTLE_PAGE;
+		this.setLayout(null); // moved into constructor from ActionPerformed:
+								// only change layout in constructor
+		startTime = 0;
+		elapsedTime = 0;
+		countdown = 790;
+
+		if (timer == null) {
+
+			timer = new Timer(54, this);
+			startTime = System.currentTimeMillis(); // gets start time in
+													// milliseconds
+			timer.start();
+		}
+	}
+	/*
+	 * private void doDrawing(Graphics g) { int a = 100; int b = 60; int c =
+	 * 100; int d = 150;
+	 * 
+	 * int a1 = 100; int b1 = 60; int c1 = 400; int d1 = 150;
+	 * ArrayList<Graphics2D> g1 = new ArrayList<Graphics2D>(); for (int i = 0; i
+	 * <= 4; i++) {
+	 * 
+	 * Graphics2D g2d = (Graphics2D) g;
+	 * 
+	 * g2d.setColor(new Color(212, 212, 212)); g2d.drawRect(c, d, a, b);
+	 * g2d.drawString("", (a + c) / 2, (b + d) / 2);
+	 * 
+	 * d += 70; c += 70; } ArrayList<Graphics2D> g2 = new
+	 * ArrayList<Graphics2D>(); for (int j = 0; j <= 4; j++) {
+	 * 
+	 * Graphics2D g2d = (Graphics2D) g;
+	 * 
+	 * g2d.setColor(new Color(212, 212, 212)); g2d.drawRect(c1, d1, a1, b1);
+	 * g2d.drawString("", (a1 + c1) / 2, (b1 + d1) / 2);
+	 * 
+	 * d1 += 70; c1 += 70; } }
+	 */
+
+	public void paintComponent(Graphics g) {
+		super.paintComponent(g);
+		for (int x = 0; x < getWidth(); x += 32) {
+			for (int y = 0; y < getHeight(); y += 32) {
+				g.drawImage(floor, x, y, null);
+			}
+		}
+		g.drawImage(title, getWidth() / 2 - 134, 20, null);
+		// doDrawing(g);
+		board.setBounds(getWidth() / 20, 4 * getHeight() / 19, 11 * getWidth() / 12, 7 * getHeight() / 10);
+
+		giveupbutton.setBounds(getWidth() / 1 - 400, 12 * getHeight() / 19, 375, 75);
+		endturnbutton.setBounds(getWidth() / 1 - 400, 15 * getHeight() / 19, 375, 75);
+		g.drawImage(hp, getWidth() - 930, getHeight() - 55, null);
+		g.drawImage(mana, getWidth() - 830, getHeight() - 55, null);
+		g.drawImage(hp, getWidth() - 250, getHeight() - 565, null);
+		g.drawImage(mana, getWidth() - 150, getHeight() - 565, null);
+
+		// g.setColor(Color.white);
+		// g.fillRect(600, 100, 400, 40); //draws healthbar outline
+		// g.setColor(Color.red);
+		// g.fillRect(600, 100, drawHealth, 40); //draws health
+
+		g.fillRect(100, 80, 800, 25);
+		g.setColor(Color.green);
+		g.fillRect(105, 85, countdown, 15);
+		g.setColor(Color.black);
+
+		g.drawString("" + ((System.currentTimeMillis() - startTime) / 1000.0), 100, 70); // display
+																							// remaining
+																							// time
+	}
+
+	@Override
+	public void actionPerformed(ActionEvent e) {
+		// TODO Auto-generated method stub
+		String command = e.getActionCommand();
+		elapsedTime = System.currentTimeMillis() - startTime;
+		if (elapsedTime < (44999)) {
+			countdown--;
+			repaint();
+		} else {
+			timer.stop();
+			if (timer == null) {
+				timer = new Timer(1000, this);
+				timer.start();
+			}
+		}
+
+	}
+
+}

@@ -1,0 +1,23 @@
+In Battle:
+	selectCard <Index>
+	selectMyMinion <Index>
+	selectOppoMinion <Index>
+	selectFace 
+	nextRound
+	giveUp
+	
+In HomePage:
+	click Lobby
+	click Collection
+	click Canvas
+	click Settings
+	click Charactor
+	
+In LobbyPage:
+	clickLobby
+	clickCollection
+	clickCanvas
+	clickSettings
+	clickStore
+	clickMatch
+	clickSend
